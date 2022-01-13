@@ -16,7 +16,6 @@ Feel free to dive in and make changes!
 
 ### Run:
 
-For the runnig the server
     
  Run game.py to start the game!
    
