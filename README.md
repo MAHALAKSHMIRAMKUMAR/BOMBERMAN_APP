@@ -3,7 +3,6 @@
 ### Being developed as a fun activity
 
 Enjoy the game and do suggest any new features to be added.
-Run game.py to start the game!
 
 
 
@@ -19,7 +18,8 @@ Feel free to dive in and make changes!
 
 For the runnig the server
     
-    python manage.py runserver
+ Run game.py to start the game!
+   
 
 
 ![This is an image](IMAGE/Screenshot%20(6).png)
